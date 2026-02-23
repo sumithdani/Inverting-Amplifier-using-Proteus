@@ -16,11 +16,11 @@ S.No	Component	Specification	Quantity
 An Inverting Amplifier is a closed-loop amplifier configuration where the input signal is applied to the inverting terminal (-) of the op-amp through resistor R1, and feedback resistor Rf is connected between output and inverting terminal.
 The non-inverting terminal (+) is grounded.
 ## Circuit Description
-•	Pin 2 → Inverting input
-•	Pin 3 → Non-inverting input (Grounded)
-•	Pin 6 → Output
-•	Pin 7 → +15V
-•	Pin 4 → -15V
+•	Pin 2 → Inverting input 
+•	Pin 3 → Non-inverting input (Grounded) 
+•	Pin 6 → Output 
+•	Pin 7 → +15V 
+•	Pin 4 → -15V 
 The input sine wave is applied through R1 and output is taken from pin 6.
 ## Circuit Diagram
 <img width="1029" height="569" alt="image" src="https://github.com/user-attachments/assets/df55a2ef-2064-4f44-a529-2982ac3e33bf" />
